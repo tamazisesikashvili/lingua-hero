@@ -9,20 +9,20 @@
 
 <!-- MODE SELECTOR CARDS -->
 <div class="mode-tabs">
-  <div class="mode-tab mode-study">
+  <a href="#study" class="mode-tab mode-study">
     <div class="mode-icon">📚</div>
     <div class="mode-name">Study Mode</div>
     <div class="mode-desc">Learn level by level — unlock each by scoring 70%+</div>
-  </div>
-  <div class="mode-tab mode-play">
+  </a>
+  <a href="#play" class="mode-tab mode-play">
     <div class="mode-icon">🎮</div>
     <div class="mode-name">Play Mode</div>
     <div class="mode-desc">All 20 levels unlocked — play any level instantly!</div>
-  </div>
+  </a>
 </div>
 
 <!-- STUDY MODE GRID -->
-<p class="grid-label">📚 Study Mode</p>
+<p class="grid-label" id="study">📚 Study Mode</p>
 <div class="level-grid">
   {% for level in levels %}
   {% if level['level'] in unlocked %}
@@ -45,7 +45,7 @@
 </div>
 
 <!-- PLAY MODE GRID -->
-<p class="grid-label">🎮 Play Mode — all levels available</p>
+<p class="grid-label" id="play">🎮 Play Mode — all levels available</p>
 <div class="level-grid">
   {% for level in levels %}
   <a href="{{ url_for('game_play', language=language, topic_slug=topic_slug) }}?level={{ level['level'] }}"

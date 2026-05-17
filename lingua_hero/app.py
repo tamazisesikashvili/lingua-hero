@@ -50,7 +50,8 @@ def track_visitor():
 # ── Load all topic data ──────────────────────────────────────────────────────
 
 def load_topic(language, topic_slug):
-    path = os.path.join("data", language, f"{topic_slug}.json")
+    base = os.path.dirname(os.path.abspath(__file__))
+    path = os.path.join(base, "data", language, f"{topic_slug}.json")
     if not os.path.exists(path):
         return None
     with open(path, "r", encoding="utf-8") as f:
