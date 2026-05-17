@@ -3,19 +3,42 @@
 
 {% block content %}
 <div class="hero">
-  <h1>⚡ LinguaHero</h1>
+  <div class="hero-bolt">⚡</div>
+  <h1>LinguaHero</h1>
   <p class="subtitle">Learn languages the fun way — study, play, level up!</p>
 </div>
 
-<h2 class="section-title">Choose a language</h2>
+<p class="section-label">Choose a language</p>
 
 <div class="lang-grid">
-  {% for slug, lang in languages.items() %}
-  <a href="{{ url_for('language_home', language=slug) }}" class="lang-card">
-    <div class="lang-flag">{{ lang.flag }}</div>
-    <div class="lang-name">{{ lang.name }}</div>
-    <div class="lang-count">{{ lang.topics | length }} topics</div>
+
+  <a href="{{ url_for('language_home', language='english') }}" class="lang-card">
+    <div class="flag-circle flag-en">EN</div>
+    <div class="lang-name">English</div>
+    <div class="lang-topics">6 topics</div>
+    <span class="lang-badge badge-active">Active</span>
   </a>
-  {% endfor %}
+
+  <a href="{{ url_for('language_home', language='german') }}" class="lang-card">
+    <div class="flag-circle flag-de">DE</div>
+    <div class="lang-name">Deutsch</div>
+    <div class="lang-topics">6 topics</div>
+    <span class="lang-badge badge-active">Active</span>
+  </a>
+
+  <div class="lang-card lang-locked">
+    <div class="flag-circle flag-ru">RU</div>
+    <div class="lang-name">Russian</div>
+    <div class="lang-topics">Coming soon</div>
+    <span class="lang-badge badge-soon">🔒 Soon</span>
+  </div>
+
+  <div class="lang-card lang-locked">
+    <div class="flag-circle flag-ge">GE</div>
+    <div class="lang-name">Georgian</div>
+    <div class="lang-topics">Coming soon</div>
+    <span class="lang-badge badge-soon">🔒 Soon</span>
+  </div>
+
 </div>
 {% endblock %}
