@@ -1,0 +1,80 @@
+{
+  "columns": ["Base form", "Past simple", "Past participle"],
+  "levels": [
+    {
+      "level": 1, "title": "The Basics",
+      "items": [
+        {"prompt": "be",    "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["was/were", "been"]},
+        {"prompt": "have",  "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["had", "had"]},
+        {"prompt": "do",    "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["did", "done"]},
+        {"prompt": "go",    "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["went", "gone"]},
+        {"prompt": "say",   "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["said", "said"]},
+        {"prompt": "get",   "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["got", "got"]},
+        {"prompt": "make",  "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["made", "made"]},
+        {"prompt": "know",  "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["knew", "known"]},
+        {"prompt": "think", "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["thought", "thought"]},
+        {"prompt": "come",  "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["came", "come"]}
+      ]
+    },
+    {
+      "level": 2, "title": "Everyday Actions",
+      "items": [
+        {"prompt": "see",   "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["saw", "seen"]},
+        {"prompt": "take",  "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["took", "taken"]},
+        {"prompt": "give",  "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["gave", "given"]},
+        {"prompt": "find",  "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["found", "found"]},
+        {"prompt": "tell",  "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["told", "told"]},
+        {"prompt": "feel",  "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["felt", "felt"]},
+        {"prompt": "leave", "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["left", "left"]},
+        {"prompt": "put",   "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["put", "put"]},
+        {"prompt": "bring", "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["brought", "brought"]},
+        {"prompt": "begin", "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["began", "begun"]}
+      ]
+    },
+    {
+      "level": 3, "title": "Getting Trickier",
+      "items": [
+        {"prompt": "keep",  "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["kept", "kept"]},
+        {"prompt": "hold",  "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["held", "held"]},
+        {"prompt": "write", "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["wrote", "written"]},
+        {"prompt": "stand", "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["stood", "stood"]},
+        {"prompt": "hear",  "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["heard", "heard"]},
+        {"prompt": "let",   "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["let", "let"]},
+        {"prompt": "mean",  "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["meant", "meant"]},
+        {"prompt": "set",   "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["set", "set"]},
+        {"prompt": "read",  "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["read", "read"]},
+        {"prompt": "run",   "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["ran", "run"]}
+      ]
+    },
+    {
+      "level": 4, "title": "Level Up",
+      "items": [
+        {"prompt": "buy",    "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["bought", "bought"]},
+        {"prompt": "break",  "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["broke", "broken"]},
+        {"prompt": "eat",    "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["ate", "eaten"]},
+        {"prompt": "fall",   "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["fell", "fallen"]},
+        {"prompt": "forget", "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["forgot", "forgotten"]},
+        {"prompt": "grow",   "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["grew", "grown"]},
+        {"prompt": "lose",   "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["lost", "lost"]},
+        {"prompt": "meet",   "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["met", "met"]},
+        {"prompt": "pay",    "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["paid", "paid"]},
+        {"prompt": "send",   "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["sent", "sent"]}
+      ]
+    },
+    {
+      "level": 5, "title": "Verb Master",
+      "items": [
+        {"prompt": "sing",   "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["sang", "sung"]},
+        {"prompt": "drink",  "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["drank", "drunk"]},
+        {"prompt": "drive",  "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["drove", "driven"]},
+        {"prompt": "fly",    "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["flew", "flown"]},
+        {"prompt": "hide",   "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["hid", "hidden"]},
+        {"prompt": "ride",   "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["rode", "ridden"]},
+        {"prompt": "ring",   "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["rang", "rung"]},
+        {"prompt": "swim",   "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["swam", "swum"]},
+        {"prompt": "throw",  "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["threw", "thrown"]},
+        {"prompt": "wake",   "question": "What are the 3 forms?", "labels": ["Past simple", "Past participle"], "answers": ["woke", "woken"]}
+      ]
+    }
+  ]
+}

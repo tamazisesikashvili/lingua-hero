@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}LinguaHero{% endblock %}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+<nav>
+  <a href="{{ url_for('home') }}" class="nav-logo">⚡ LinguaHero</a>
+  <div class="nav-center">
+    {% if language is defined and language %}
+      <a href="{{ url_for('language_home', language=language) }}" class="nav-link">{{ lang.flag }} {{ lang.name }}</a>
+    {% endif %}
+    <a href="{{ url_for('home') }}" class="nav-link">Home</a>
+  </div>
+  <div class="nav-visitors">
+    👥 {{ visitors | default(0) }} visitors
+  </div>
+</nav>
+
+<main>
+  {% block content %}{% endblock %}
+</main>
+
+</body>
+</html>

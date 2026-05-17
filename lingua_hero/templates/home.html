@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block title %}LinguaHero — Choose your language{% endblock %}
+
+{% block content %}
+<div class="hero">
+  <h1>⚡ LinguaHero</h1>
+  <p class="subtitle">Learn languages the fun way — study, play, level up!</p>
+</div>
+
+<h2 class="section-title">Choose a language</h2>
+
+<div class="lang-grid">
+  {% for slug, lang in languages.items() %}
+  <a href="{{ url_for('language_home', language=slug) }}" class="lang-card">
+    <div class="lang-flag">{{ lang.flag }}</div>
+    <div class="lang-name">{{ lang.name }}</div>
+    <div class="lang-count">{{ lang.topics | length }} topics</div>
+  </a>
+  {% endfor %}
+</div>
+{% endblock %}

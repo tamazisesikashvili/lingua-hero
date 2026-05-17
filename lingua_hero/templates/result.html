@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block title %}Results — {{ topic_name }}{% endblock %}
+
+{% block content %}
+<div class="result-page">
+  <div class="final-score">
+    {% if percent == 100 %}
+      <div class="trophy">🏆</div><h1>Perfect Score!</h1>
+    {% elif percent >= 70 %}
+      <div class="trophy">⭐</div><h1>Great Job!</h1>
+    {% elif percent >= 50 %}
+      <div class="trophy">👍</div><h1>Good Try!</h1>
+    {% else %}
+      <div class="trophy">💪</div><h1>Keep Practising!</h1>
+    {% endif %}
+    <p class="score-number">{{ score }} / {{ total }}</p>
+    <p class="score-percent">{{ percent }}%</p>
+  </div>
+
+  {% if newly_unlocked %}
+  <div class="unlock-banner">🔓 Level {{ level | int + 1 }} is now unlocked!</div>
+  {% elif percent < 70 and level != "all" %}
+  <div class="locked-banner">Score 70% or more to unlock the next level!</div>
+  {% endif %}
+
+  <div class="result-actions">
+    <a href="{{ url_for('game_play', language=language, topic_slug=topic_slug) }}?level={{ level }}" class="btn btn-primary">🔄 Play Again</a>
+    <a href="{{ url_for('topic_home', language=language, topic_slug=topic_slug) }}" class="btn btn-secondary">All Levels</a>
+    <a href="{{ url_for('language_home', language=language) }}" class="btn btn-secondary">{{ lang.flag }} Topics</a>
+  </div>
+</div>
+{% endblock %}

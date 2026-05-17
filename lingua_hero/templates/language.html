@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% block title %}{{ lang.name }} — LinguaHero{% endblock %}
+
+{% block content %}
+<div class="page-header">
+  <h1>{{ lang.flag }} {{ lang.name }}</h1>
+  <p>Choose a topic to study and play</p>
+</div>
+
+<div class="topic-grid">
+  {% for topic in topics %}
+  {% if topic.ready %}
+  <a href="{{ url_for('topic_home', language=language, topic_slug=topic.slug) }}" class="topic-card">
+    <div class="topic-icon">{{ topic.icon }}</div>
+    <div class="topic-name">{{ topic.name }}</div>
+    <div class="topic-desc">{{ topic.desc }}</div>
+    <div class="topic-meta">
+      <span class="topic-levels">{{ topic.total_levels }} levels</span>
+      {% if topic.completed == topic.total_levels and topic.total_levels > 0 %}
+        <span class="tag tag-done">✅ Complete</span>
+      {% elif topic.completed > 0 %}
+        <span class="tag tag-progress">{{ topic.completed }}/{{ topic.total_levels }} done</span>
+      {% else %}
+        <span class="tag tag-new">Start</span>
+      {% endif %}
+    </div>
+  </a>
+  {% else %}
+  <div class="topic-card topic-locked">
+    <div class="topic-icon">{{ topic.icon }}</div>
+    <div class="topic-name">{{ topic.name }}</div>
+    <div class="topic-desc">{{ topic.desc }}</div>
+    <div class="topic-meta">
+      <span class="tag tag-soon">🔒 Coming soon</span>
+    </div>
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+
+<div class="back-link"><a href="{{ url_for('home') }}">← All languages</a></div>
+{% endblock %}

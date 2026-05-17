@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block title %}Level {{ level['level'] }} — {{ topic_name }}{% endblock %}
+
+{% block content %}
+<div class="page-header">
+  <h1>{{ topic_name }} — Level {{ level['level'] }}</h1>
+  <p>{{ level['title'] }} · Study all {{ level['items'] | length }} items before playing</p>
+</div>
+
+<table class="verb-table">
+  <thead>
+    <tr>
+      {% for col in level['columns'] %}
+      <th>{{ col }}</th>
+      {% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+    {% for item in level['items'] %}
+    <tr>
+      <td class="verb-base">{{ item['prompt'] }}</td>
+      {% for ans in item['answers'] %}
+      <td>{{ ans }}</td>
+      {% endfor %}
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<div class="study-actions">
+  {% if level['level'] > 1 %}
+  <a href="{{ url_for('study', language=language, topic_slug=topic_slug, level_num=level['level'] - 1) }}" class="btn btn-secondary">← Level {{ level['level'] - 1 }}</a>
+  {% endif %}
+
+  <a href="{{ url_for('game_play', language=language, topic_slug=topic_slug) }}?level={{ level['level'] }}" class="btn btn-primary">🎮 Play Level {{ level['level'] }}</a>
+
+  {% if level['level'] < total_levels %}
+  <a href="{{ url_for('study', language=language, topic_slug=topic_slug, level_num=level['level'] + 1) }}" class="btn btn-secondary">Level {{ level['level'] + 1 }} →</a>
+  {% endif %}
+</div>
+
+<div class="back-link">
+  <a href="{{ url_for('topic_home', language=language, topic_slug=topic_slug) }}">← All levels</a>
+</div>
+{% endblock %}

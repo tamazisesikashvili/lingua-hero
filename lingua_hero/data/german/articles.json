@@ -1,0 +1,35 @@
+{
+  "columns": ["Noun", "Article (Nominativ)", "Gender"],
+  "levels": [
+    {
+      "level": 1, "title": "Common nouns — der/die/das",
+      "items": [
+        {"prompt": "Mann",   "question": "What is the article?", "labels": ["Article"], "answers": ["der"]},
+        {"prompt": "Frau",   "question": "What is the article?", "labels": ["Article"], "answers": ["die"]},
+        {"prompt": "Kind",   "question": "What is the article?", "labels": ["Article"], "answers": ["das"]},
+        {"prompt": "Hund",   "question": "What is the article?", "labels": ["Article"], "answers": ["der"]},
+        {"prompt": "Katze",  "question": "What is the article?", "labels": ["Article"], "answers": ["die"]},
+        {"prompt": "Haus",   "question": "What is the article?", "labels": ["Article"], "answers": ["das"]},
+        {"prompt": "Tisch",  "question": "What is the article?", "labels": ["Article"], "answers": ["der"]},
+        {"prompt": "Schule", "question": "What is the article?", "labels": ["Article"], "answers": ["die"]},
+        {"prompt": "Buch",   "question": "What is the article?", "labels": ["Article"], "answers": ["das"]},
+        {"prompt": "Auto",   "question": "What is the article?", "labels": ["Article"], "answers": ["das"]}
+      ]
+    },
+    {
+      "level": 2, "title": "Food & drink",
+      "items": [
+        {"prompt": "Apfel",  "question": "What is the article?", "labels": ["Article"], "answers": ["der"]},
+        {"prompt": "Milch",  "question": "What is the article?", "labels": ["Article"], "answers": ["die"]},
+        {"prompt": "Brot",   "question": "What is the article?", "labels": ["Article"], "answers": ["das"]},
+        {"prompt": "Wasser", "question": "What is the article?", "labels": ["Article"], "answers": ["das"]},
+        {"prompt": "Kaffee", "question": "What is the article?", "labels": ["Article"], "answers": ["der"]},
+        {"prompt": "Suppe",  "question": "What is the article?", "labels": ["Article"], "answers": ["die"]},
+        {"prompt": "Ei",     "question": "What is the article?", "labels": ["Article"], "answers": ["das"]},
+        {"prompt": "Fleisch","question": "What is the article?", "labels": ["Article"], "answers": ["das"]},
+        {"prompt": "Butter", "question": "What is the article?", "labels": ["Article"], "answers": ["die"]},
+        {"prompt": "Käse",   "question": "What is the article?", "labels": ["Article"], "answers": ["der"]}
+      ]
+    }
+  ]
+}

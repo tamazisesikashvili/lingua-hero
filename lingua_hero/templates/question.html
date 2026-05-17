@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+{% block title %}Question {{ index }}/{{ total }} — {{ topic_name }}{% endblock %}
+
+{% block content %}
+<div class="progress-bar-container">
+  <div class="progress-bar" style="width: {{ (index / total * 100) | int }}%"></div>
+</div>
+<div class="progress-text">Question {{ index }} of {{ total }} &nbsp;|&nbsp; Score: {{ score }}</div>
+
+<div class="question-card">
+  <p class="question-label">{{ item['question'] }}</p>
+  <h1 class="verb-display">{{ item['prompt'] }}</h1>
+
+  {% if result is none %}
+  <form method="POST" class="answer-form">
+    {% for i in range(item['answers'] | length) %}
+    <div class="input-group">
+      <label>{{ item['labels'][i] if item['labels'] is defined else "Answer " ~ (i+1) }}:</label>
+      <input type="text" name="ans_{{ i }}" placeholder="type here..." autofocus autocomplete="off">
+    </div>
+    {% endfor %}
+    <button type="submit" class="btn btn-primary btn-big">Check ✓</button>
+  </form>
+
+  {% else %}
+  <div class="result-box {{ result }}">
+    {% if result == "correct" %}
+      <p class="result-icon">✅ Correct!</p>
+    {% else %}
+      <p class="result-icon">❌ Not quite!</p>
+      <p class="correct-answer">
+        Correct: <strong>{{ item['prompt'] }}</strong>
+        {% for ans in item['answers'] %} → <strong>{{ ans }}</strong>{% endfor %}
+      </p>
+      <p class="your-answer">Your answer: {{ user_inputs | join(" / ") }}</p>
+    {% endif %}
+  </div>
+
+  {% if index < total %}
+  <a href="{{ url_for('game_question', language=language, topic_slug=topic_slug) }}" class="btn btn-primary btn-big">Next →</a>
+  {% else %}
+  <a href="{{ url_for('game_result', language=language, topic_slug=topic_slug) }}" class="btn btn-primary btn-big">See Results 🏆</a>
+  {% endif %}
+  {% endif %}
+</div>
+{% endblock %}
