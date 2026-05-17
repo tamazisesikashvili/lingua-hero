@@ -4,20 +4,36 @@
 {% block content %}
 <div class="page-header">
   <h1>{{ topic_name }}</h1>
-  <p>Complete each level with 70%+ to unlock the next one</p>
+  <p>Choose your mode below</p>
 </div>
 
+<!-- MODE SELECTOR CARDS -->
+<div class="mode-tabs">
+  <div class="mode-tab mode-study">
+    <div class="mode-icon">📚</div>
+    <div class="mode-name">Study Mode</div>
+    <div class="mode-desc">Learn level by level — unlock each by scoring 70%+</div>
+  </div>
+  <div class="mode-tab mode-play">
+    <div class="mode-icon">🎮</div>
+    <div class="mode-name">Play Mode</div>
+    <div class="mode-desc">All 20 levels unlocked — play any level instantly!</div>
+  </div>
+</div>
+
+<!-- STUDY MODE GRID -->
+<p class="grid-label">📚 Study Mode</p>
 <div class="level-grid">
   {% for level in levels %}
   {% if level['level'] in unlocked %}
-  <a href="{{ url_for('study', language=language, topic_slug=topic_slug, level_num=level['level']) }}"
-     class="level-card {% if level['level'] in completed %}level-done{% endif %}">
+  <div class="level-card {% if level['level'] in completed %}level-done{% endif %}">
     <div class="level-number">
       {% if level['level'] in completed %}✅{% else %}Level {{ level['level'] }}{% endif %}
     </div>
     <div class="level-title">{{ level['title'] }}</div>
     <div class="level-count">{{ level['items'] | length }} items</div>
-  </a>
+    <a href="{{ url_for('study', language=language, topic_slug=topic_slug, level_num=level['level']) }}" class="btn btn-secondary btn-sm">📚 Study</a>
+  </div>
   {% else %}
   <div class="level-card level-locked">
     <div class="level-number">🔒</div>
@@ -25,6 +41,20 @@
     <div class="level-count">Complete level {{ level['level'] - 1 }} first</div>
   </div>
   {% endif %}
+  {% endfor %}
+</div>
+
+<!-- PLAY MODE GRID -->
+<p class="grid-label">🎮 Play Mode — all levels available</p>
+<div class="level-grid">
+  {% for level in levels %}
+  <a href="{{ url_for('game_play', language=language, topic_slug=topic_slug) }}?level={{ level['level'] }}"
+     class="level-card level-play">
+    <div class="level-number">Level {{ level['level'] }}</div>
+    <div class="level-title">{{ level['title'] }}</div>
+    <div class="level-count">{{ level['items'] | length }} items</div>
+    <span class="btn btn-primary btn-sm">🎮 Play</span>
+  </a>
   {% endfor %}
 </div>
 

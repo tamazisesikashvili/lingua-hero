@@ -235,3 +235,73 @@ main { max-width: 860px; margin: 0 auto; padding: 30px 20px; }
 .badge-soon   { background: #f3f4f6; color: #999; }
 
 .lang-locked { opacity: 0.55; cursor: not-allowed; }
+
+/* ===== TOPIC PAGE GAME BUTTONS ===== */
+.topic-actions {
+  margin-bottom: 24px;
+}
+
+.btn-sm {
+  font-size: 0.82rem;
+  padding: 7px 14px;
+  border-radius: 8px;
+}
+
+.level-btns {
+  display: flex;
+  gap: 6px;
+  margin-top: 10px;
+  justify-content: center;
+}
+
+.level-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* ===== MODE TABS ===== */
+.mode-tabs {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+  margin-bottom: 28px;
+}
+.mode-tab {
+  border-radius: 16px;
+  padding: 22px 16px;
+  text-align: center;
+}
+.mode-study { background: #e0e7ff; border: 2px solid #4f46e5; }
+.mode-play  { background: #ecfdf5; border: 2px solid #34d399; }
+.mode-icon  { font-size: 2rem; margin-bottom: 8px; }
+.mode-name  { font-size: 1rem; font-weight: bold; color: #222; margin-bottom: 4px; }
+.mode-desc  { font-size: 0.82rem; color: #666; line-height: 1.5; }
+
+/* ===== GRID LABEL ===== */
+.grid-label {
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: #888;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 12px;
+}
+
+/* ===== PLAY MODE CARDS ===== */
+.level-play {
+  border-color: #34d399 !important;
+  background: #f0fdf4 !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.level-play .level-number { color: #059669; }
+
+/* ===== SMALL BUTTONS ===== */
+.btn-sm {
+  font-size: 0.78rem;
+  padding: 5px 12px;
+  border-radius: 8px;
+  margin-top: 6px;
+}
