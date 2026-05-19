@@ -1,0 +1,2204 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "title": "Present Simple",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "She ___ (work) in a hospital.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "works"
+          ]
+        },
+        {
+          "prompt": "They ___ (play) football every Sunday.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "play"
+          ]
+        },
+        {
+          "prompt": "He ___ (not/eat) meat.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "doesn't eat"
+          ]
+        },
+        {
+          "prompt": "The sun ___ (rise) in the east.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "rises"
+          ]
+        },
+        {
+          "prompt": "We ___ (study) English at school.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "study"
+          ]
+        },
+        {
+          "prompt": "My cat ___ (sleep) all day.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "sleeps"
+          ]
+        },
+        {
+          "prompt": "___ you (like) coffee?",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Do you like"
+          ]
+        },
+        {
+          "prompt": "She ___ (not/watch) TV in the morning.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "doesn't watch"
+          ]
+        },
+        {
+          "prompt": "The train ___ (leave) at 8am every day.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "leaves"
+          ]
+        },
+        {
+          "prompt": "They ___ (not/live) in London.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "don't live"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "title": "Past Simple",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "She ___ (visit) her grandmother last week.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "visited"
+          ]
+        },
+        {
+          "prompt": "We ___ (go) to the beach yesterday.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "went"
+          ]
+        },
+        {
+          "prompt": "He ___ (not/come) to the party.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "didn't come"
+          ]
+        },
+        {
+          "prompt": "They ___ (buy) a new car last year.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "bought"
+          ]
+        },
+        {
+          "prompt": "I ___ (see) a great film last night.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "saw"
+          ]
+        },
+        {
+          "prompt": "She ___ (not/finish) her homework.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "didn't finish"
+          ]
+        },
+        {
+          "prompt": "___ he (call) you yesterday?",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Did he call"
+          ]
+        },
+        {
+          "prompt": "The children ___ (run) in the park.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "ran"
+          ]
+        },
+        {
+          "prompt": "We ___ (eat) pizza for dinner.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "ate"
+          ]
+        },
+        {
+          "prompt": "She ___ (write) a long letter.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "wrote"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "title": "Future Simple — will",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "I think it ___ (rain) tomorrow.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will rain"
+          ]
+        },
+        {
+          "prompt": "She ___ (help) you with that.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will help"
+          ]
+        },
+        {
+          "prompt": "They ___ (not/be) at home tonight.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "won't be"
+          ]
+        },
+        {
+          "prompt": "Don't worry, I ___ (carry) your bag.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will carry"
+          ]
+        },
+        {
+          "prompt": "He ___ (probably/arrive) late.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will probably arrive"
+          ]
+        },
+        {
+          "prompt": "___ you (call) me later?",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Will you call"
+          ]
+        },
+        {
+          "prompt": "I ___ (not/tell) anyone your secret.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "won't tell"
+          ]
+        },
+        {
+          "prompt": "We ___ (see) what happens.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will see"
+          ]
+        },
+        {
+          "prompt": "She ___ (be) a great doctor one day.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will be"
+          ]
+        },
+        {
+          "prompt": "It ___ (not/take) long.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "won't take"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "title": "Future — going to",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "I ___ (visit) my parents this weekend.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "am going to visit"
+          ]
+        },
+        {
+          "prompt": "Look at those clouds! It ___ (rain).",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "is going to rain"
+          ]
+        },
+        {
+          "prompt": "She ___ (study) medicine next year.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "is going to study"
+          ]
+        },
+        {
+          "prompt": "They ___ (move) to a new house.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "are going to move"
+          ]
+        },
+        {
+          "prompt": "He ___ (not/come) to the meeting.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "isn't going to come"
+          ]
+        },
+        {
+          "prompt": "___ you (travel) this summer?",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Are you going to travel"
+          ]
+        },
+        {
+          "prompt": "We ___ (have) a party on Friday.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "are going to have"
+          ]
+        },
+        {
+          "prompt": "She ___ (quit) her job.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "is going to quit"
+          ]
+        },
+        {
+          "prompt": "I ___ (not/eat) sugar anymore.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "am not going to eat"
+          ]
+        },
+        {
+          "prompt": "The team ___ (win) the match.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "is going to win"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "title": "Present Continuous",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "She ___ (read) a book right now.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "is reading"
+          ]
+        },
+        {
+          "prompt": "They ___ (play) in the garden at the moment.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "are playing"
+          ]
+        },
+        {
+          "prompt": "I ___ (not/watch) TV right now.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "am not watching"
+          ]
+        },
+        {
+          "prompt": "He ___ (work) from home this week.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "is working"
+          ]
+        },
+        {
+          "prompt": "___ you (listen) to music?",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Are you listening"
+          ]
+        },
+        {
+          "prompt": "We ___ (have) dinner at the moment.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "are having"
+          ]
+        },
+        {
+          "prompt": "She ___ (not/sleep) — she's studying.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "isn't sleeping"
+          ]
+        },
+        {
+          "prompt": "The baby ___ (cry) again.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "is crying"
+          ]
+        },
+        {
+          "prompt": "They ___ (build) a new school nearby.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "are building"
+          ]
+        },
+        {
+          "prompt": "I ___ (learn) Spanish this year.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "am learning"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "title": "Past Continuous",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "She ___ (sleep) when I called.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "was sleeping"
+          ]
+        },
+        {
+          "prompt": "They ___ (play) football when it started to rain.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "were playing"
+          ]
+        },
+        {
+          "prompt": "I ___ (not/listen) when he spoke.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "wasn't listening"
+          ]
+        },
+        {
+          "prompt": "He ___ (drive) too fast when the accident happened.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "was driving"
+          ]
+        },
+        {
+          "prompt": "___ you (study) at 9pm last night?",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Were you studying"
+          ]
+        },
+        {
+          "prompt": "We ___ (have) lunch when she arrived.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "were having"
+          ]
+        },
+        {
+          "prompt": "She ___ (not/work) yesterday afternoon.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "wasn't working"
+          ]
+        },
+        {
+          "prompt": "The children ___ (run) around the garden.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "were running"
+          ]
+        },
+        {
+          "prompt": "I ___ (read) when the lights went out.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "was reading"
+          ]
+        },
+        {
+          "prompt": "They ___ (argue) all evening.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "were arguing"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "title": "Future Continuous",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "This time tomorrow I ___ (fly) to Paris.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will be flying"
+          ]
+        },
+        {
+          "prompt": "She ___ (work) late tonight.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will be working"
+          ]
+        },
+        {
+          "prompt": "They ___ (sleep) when we arrive.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will be sleeping"
+          ]
+        },
+        {
+          "prompt": "I ___ (not/use) the car tomorrow.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "won't be using"
+          ]
+        },
+        {
+          "prompt": "___ you ___ (study) at 8pm?",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Will you be studying"
+          ]
+        },
+        {
+          "prompt": "He ___ (travel) all day.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will be travelling"
+          ]
+        },
+        {
+          "prompt": "We ___ (wait) for you outside.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will be waiting"
+          ]
+        },
+        {
+          "prompt": "She ___ (not/cook) — she has a meeting.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "won't be cooking"
+          ]
+        },
+        {
+          "prompt": "By noon, they ___ (finish) the report.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will be finishing"
+          ]
+        },
+        {
+          "prompt": "I ___ (think) of you.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will be thinking"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "title": "Present Perfect",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "I ___ (visit) Paris three times.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "have visited"
+          ]
+        },
+        {
+          "prompt": "She ___ (not/finish) her homework yet.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "hasn't finished"
+          ]
+        },
+        {
+          "prompt": "They ___ (just/arrive) at the station.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "have just arrived"
+          ]
+        },
+        {
+          "prompt": "He ___ (live) here for ten years.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "has lived"
+          ]
+        },
+        {
+          "prompt": "___ you ever (eat) sushi?",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Have you ever eaten"
+          ]
+        },
+        {
+          "prompt": "We ___ (already/see) that film.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "have already seen"
+          ]
+        },
+        {
+          "prompt": "She ___ (lose) her keys again.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "has lost"
+          ]
+        },
+        {
+          "prompt": "I ___ (not/speak) to him since Monday.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "haven't spoken"
+          ]
+        },
+        {
+          "prompt": "He ___ (just/call) me.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "has just called"
+          ]
+        },
+        {
+          "prompt": "They ___ (win) every match this season.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "have won"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "title": "Past Perfect",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "When I arrived, she ___ (already/leave).",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had already left"
+          ]
+        },
+        {
+          "prompt": "He ___ (never/seen) snow before.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had never seen"
+          ]
+        },
+        {
+          "prompt": "They ___ (finish) dinner before we got there.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had finished"
+          ]
+        },
+        {
+          "prompt": "She ___ (not/study) so she failed.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "hadn't studied"
+          ]
+        },
+        {
+          "prompt": "___ you ___ (hear) the news before she told you?",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Had you heard"
+          ]
+        },
+        {
+          "prompt": "By the time he called, I ___ (go) to bed.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had gone"
+          ]
+        },
+        {
+          "prompt": "We ___ (never/met) before that day.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had never met"
+          ]
+        },
+        {
+          "prompt": "She ___ (just/leave) when he arrived.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had just left"
+          ]
+        },
+        {
+          "prompt": "He was tired because he ___ (work) all day.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had worked"
+          ]
+        },
+        {
+          "prompt": "I ___ (not/eat) anything since breakfast.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "hadn't eaten"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "title": "Future Perfect",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "By Friday, I ___ (finish) the project.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will have finished"
+          ]
+        },
+        {
+          "prompt": "She ___ (graduate) by the end of the year.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will have graduated"
+          ]
+        },
+        {
+          "prompt": "They ___ (not/arrive) by noon.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "won't have arrived"
+          ]
+        },
+        {
+          "prompt": "___ you ___ (complete) the course by June?",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Will you have completed"
+          ]
+        },
+        {
+          "prompt": "By 2030, he ___ (work) here for 20 years.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will have worked"
+          ]
+        },
+        {
+          "prompt": "We ___ (eat) before the film starts.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will have eaten"
+          ]
+        },
+        {
+          "prompt": "She ___ (not/save) enough money by then.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "won't have saved"
+          ]
+        },
+        {
+          "prompt": "By tomorrow, they ___ (travel) 1000 miles.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will have travelled"
+          ]
+        },
+        {
+          "prompt": "He ___ (read) the book before the meeting.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will have read"
+          ]
+        },
+        {
+          "prompt": "I ___ (clean) the house before they arrive.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will have cleaned"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 11,
+      "title": "Present Perfect Continuous",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "I ___ (study) for three hours.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "have been studying"
+          ]
+        },
+        {
+          "prompt": "She ___ (wait) since 9 o'clock.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "has been waiting"
+          ]
+        },
+        {
+          "prompt": "They ___ (argue) all morning.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "have been arguing"
+          ]
+        },
+        {
+          "prompt": "He ___ (not/feel) well lately.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "hasn't been feeling"
+          ]
+        },
+        {
+          "prompt": "___ you ___ (work) here long?",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Have you been working"
+          ]
+        },
+        {
+          "prompt": "We ___ (live) here for two years.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "have been living"
+          ]
+        },
+        {
+          "prompt": "She ___ (run) — look how tired she is!",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "has been running"
+          ]
+        },
+        {
+          "prompt": "I ___ (not/sleep) well this week.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "haven't been sleeping"
+          ]
+        },
+        {
+          "prompt": "He ___ (play) video games all day.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "has been playing"
+          ]
+        },
+        {
+          "prompt": "They ___ (build) the bridge for months.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "have been building"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 12,
+      "title": "Past Perfect Continuous",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "She ___ (work) for hours when she finally stopped.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had been working"
+          ]
+        },
+        {
+          "prompt": "He was tired because he ___ (run).",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had been running"
+          ]
+        },
+        {
+          "prompt": "They ___ (wait) for an hour before the bus came.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had been waiting"
+          ]
+        },
+        {
+          "prompt": "I ___ (study) all night so I fell asleep.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had been studying"
+          ]
+        },
+        {
+          "prompt": "She ___ (not/sleep) well for weeks before the exam.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "hadn't been sleeping"
+          ]
+        },
+        {
+          "prompt": "___ you ___ (wait) long when she arrived?",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Had you been waiting"
+          ]
+        },
+        {
+          "prompt": "He ___ (drive) for hours before he stopped.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had been driving"
+          ]
+        },
+        {
+          "prompt": "We ___ (live) there for years before we moved.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had been living"
+          ]
+        },
+        {
+          "prompt": "She ___ (cry) — her eyes were red.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had been crying"
+          ]
+        },
+        {
+          "prompt": "They ___ (argue) before we arrived.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had been arguing"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 13,
+      "title": "Future Perfect Continuous",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "By May, I ___ (study) English for two years.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will have been studying"
+          ]
+        },
+        {
+          "prompt": "She ___ (work) here for a decade by next year.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will have been working"
+          ]
+        },
+        {
+          "prompt": "By the time you arrive, we ___ (wait) for hours.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will have been waiting"
+          ]
+        },
+        {
+          "prompt": "He ___ (drive) for 8 hours by the time he arrives.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will have been driving"
+          ]
+        },
+        {
+          "prompt": "By Friday, they ___ (build) the house for six months.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will have been building"
+          ]
+        },
+        {
+          "prompt": "I ___ (not/sleep) for 24 hours by midnight.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "won't have been sleeping"
+          ]
+        },
+        {
+          "prompt": "She ___ (run) for an hour by the time she finishes.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will have been running"
+          ]
+        },
+        {
+          "prompt": "By 2030, he ___ (teach) for 30 years.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will have been teaching"
+          ]
+        },
+        {
+          "prompt": "We ___ (travel) for two days by the time we land.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will have been travelling"
+          ]
+        },
+        {
+          "prompt": "They ___ (play) for three hours by 5pm.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will have been playing"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 14,
+      "title": "Zero Conditional",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "If you heat water to 100°C, it ___.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "boils"
+          ]
+        },
+        {
+          "prompt": "Plants die if they ___ (not/get) water.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "don't get"
+          ]
+        },
+        {
+          "prompt": "If you ___ (mix) blue and yellow, you get green.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "mix"
+          ]
+        },
+        {
+          "prompt": "Ice melts if the temperature ___ (rise) above 0°C.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "rises"
+          ]
+        },
+        {
+          "prompt": "If you ___ (not/eat), you get hungry.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "don't eat"
+          ]
+        },
+        {
+          "prompt": "Water freezes if it ___ (reach) 0°C.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "reaches"
+          ]
+        },
+        {
+          "prompt": "If you touch fire, it ___.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "burns"
+          ]
+        },
+        {
+          "prompt": "Dogs bark if they ___ (hear) strangers.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "hear"
+          ]
+        },
+        {
+          "prompt": "If it rains, the ground ___ (get) wet.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "gets"
+          ]
+        },
+        {
+          "prompt": "If you press this button, the light ___.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "turns on"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 15,
+      "title": "First Conditional",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "If it rains, I ___ (stay) at home.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will stay"
+          ]
+        },
+        {
+          "prompt": "She ___ (call) you if she needs help.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will call"
+          ]
+        },
+        {
+          "prompt": "If he studies hard, he ___ (pass) the exam.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will pass"
+          ]
+        },
+        {
+          "prompt": "We ___ (miss) the train if we don't hurry.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will miss"
+          ]
+        },
+        {
+          "prompt": "If you ___ (eat) too much, you'll feel sick.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "eat"
+          ]
+        },
+        {
+          "prompt": "I ___ (not/go) if it's too cold.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "won't go"
+          ]
+        },
+        {
+          "prompt": "If she ___ (arrive) early, we can have breakfast.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "arrives"
+          ]
+        },
+        {
+          "prompt": "He ___ (be) angry if you are late.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will be"
+          ]
+        },
+        {
+          "prompt": "If they ___ (not/hurry), we'll leave without them.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "don't hurry"
+          ]
+        },
+        {
+          "prompt": "You ___ (feel) better if you rest.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will feel"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 16,
+      "title": "Second Conditional",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "If I ___ (have) more money, I would travel.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had"
+          ]
+        },
+        {
+          "prompt": "She would be happier if she ___ (live) near the sea.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "lived"
+          ]
+        },
+        {
+          "prompt": "If he ___ (study) more, he would get better grades.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "studied"
+          ]
+        },
+        {
+          "prompt": "I would buy a car if I ___ (can) drive.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "could"
+          ]
+        },
+        {
+          "prompt": "If they ___ (not/be) so busy, they would visit us.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "weren't"
+          ]
+        },
+        {
+          "prompt": "She would call if she ___ (have) your number.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had"
+          ]
+        },
+        {
+          "prompt": "If I ___ (be) you, I would apologise.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "were"
+          ]
+        },
+        {
+          "prompt": "He would help if he ___ (know) how.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "knew"
+          ]
+        },
+        {
+          "prompt": "If it ___ (not/rain), we would go to the park.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "didn't rain"
+          ]
+        },
+        {
+          "prompt": "I would eat more if the food ___ (taste) better.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "tasted"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 17,
+      "title": "Third Conditional",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "If she ___ (study), she would have passed.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had studied"
+          ]
+        },
+        {
+          "prompt": "We would have arrived on time if we ___ (leave) earlier.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had left"
+          ]
+        },
+        {
+          "prompt": "If he ___ (not/drink), he wouldn't have felt ill.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "hadn't drunk"
+          ]
+        },
+        {
+          "prompt": "She would have called if she ___ (have) your number.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had had"
+          ]
+        },
+        {
+          "prompt": "If they ___ (win), they would have celebrated.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had won"
+          ]
+        },
+        {
+          "prompt": "I would have helped if you ___ (ask) me.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had asked"
+          ]
+        },
+        {
+          "prompt": "He ___ (not/fall) if he had been more careful.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "wouldn't have fallen"
+          ]
+        },
+        {
+          "prompt": "If we ___ (book) earlier, we'd have got cheaper tickets.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had booked"
+          ]
+        },
+        {
+          "prompt": "She would have been happy if he ___ (come).",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had come"
+          ]
+        },
+        {
+          "prompt": "If I ___ (know), I would have told you.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had known"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 18,
+      "title": "Present Simple Passive",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "English ___ (speak) all over the world.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "is spoken"
+          ]
+        },
+        {
+          "prompt": "These cars ___ (make) in Germany.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "are made"
+          ]
+        },
+        {
+          "prompt": "The mail ___ (deliver) every morning.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "is delivered"
+          ]
+        },
+        {
+          "prompt": "Millions of books ___ (sell) every year.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "are sold"
+          ]
+        },
+        {
+          "prompt": "The office ___ (clean) every night.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "is cleaned"
+          ]
+        },
+        {
+          "prompt": "Rice ___ (grow) in Asia.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "is grown"
+          ]
+        },
+        {
+          "prompt": "These films ___ (watch) by millions.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "are watched"
+          ]
+        },
+        {
+          "prompt": "The results ___ (publish) online.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "are published"
+          ]
+        },
+        {
+          "prompt": "Coffee ___ (produce) in Brazil.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "is produced"
+          ]
+        },
+        {
+          "prompt": "The building ___ (use) as a school.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "is used"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 19,
+      "title": "Past Simple Passive",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "The window ___ (break) last night.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "was broken"
+          ]
+        },
+        {
+          "prompt": "These pyramids ___ (build) thousands of years ago.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "were built"
+          ]
+        },
+        {
+          "prompt": "The letter ___ (send) yesterday.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "was sent"
+          ]
+        },
+        {
+          "prompt": "The suspect ___ (arrest) this morning.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "was arrested"
+          ]
+        },
+        {
+          "prompt": "The match ___ (cancel) due to rain.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "was cancelled"
+          ]
+        },
+        {
+          "prompt": "The painting ___ (steal) from the museum.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "was stolen"
+          ]
+        },
+        {
+          "prompt": "The new road ___ (open) last month.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "was opened"
+          ]
+        },
+        {
+          "prompt": "The book ___ (write) in the 19th century.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "was written"
+          ]
+        },
+        {
+          "prompt": "The criminals ___ (catch) by the police.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "were caught"
+          ]
+        },
+        {
+          "prompt": "The report ___ (submit) on time.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "was submitted"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 20,
+      "title": "Present Perfect Passive",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "The project ___ (complete) already.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "has been completed"
+          ]
+        },
+        {
+          "prompt": "Several mistakes ___ (find) in the report.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "have been found"
+          ]
+        },
+        {
+          "prompt": "The new law ___ (introduce) this year.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "has been introduced"
+          ]
+        },
+        {
+          "prompt": "He ___ (offer) a new job.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "has been offered"
+          ]
+        },
+        {
+          "prompt": "The results ___ (not/announce) yet.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "haven't been announced"
+          ]
+        },
+        {
+          "prompt": "The building ___ (damage) in the storm.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "has been damaged"
+          ]
+        },
+        {
+          "prompt": "All the tickets ___ (sell).",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "have been sold"
+          ]
+        },
+        {
+          "prompt": "The email ___ (send) to everyone.",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "has been sent"
+          ]
+        },
+        {
+          "prompt": "The problem ___ (solve).",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "has been solved"
+          ]
+        },
+        {
+          "prompt": "New evidence ___ (discover).",
+          "question": "Fill in the correct verb form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "has been discovered"
+          ]
+        }
+      ]
+    }
+  ]
+}

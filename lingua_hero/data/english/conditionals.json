@@ -1,0 +1,1654 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "title": "Zero Conditional",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "If you heat ice, it ___.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "melts"
+          ]
+        },
+        {
+          "prompt": "Water boils if you ___ it to 100°C.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "heat"
+          ]
+        },
+        {
+          "prompt": "If plants don't get water, they ___.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "die"
+          ]
+        },
+        {
+          "prompt": "If you ___ a match, it lights.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "strike"
+          ]
+        },
+        {
+          "prompt": "Dogs bark if they ___ a stranger.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "hear"
+          ]
+        },
+        {
+          "prompt": "If you press this button, the alarm ___.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "rings"
+          ]
+        },
+        {
+          "prompt": "Ice melts if the temperature ___ above zero.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "rises"
+          ]
+        },
+        {
+          "prompt": "If you mix red and blue, you ___ purple.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "get"
+          ]
+        },
+        {
+          "prompt": "If it ___ below zero, water freezes.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "drops"
+          ]
+        },
+        {
+          "prompt": "If you don't eat, you ___ hungry.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "get"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "title": "First Conditional",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "If it rains, I ___ (stay) at home.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will stay"
+          ]
+        },
+        {
+          "prompt": "She ___ (call) you if she needs help.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will call"
+          ]
+        },
+        {
+          "prompt": "If he studies hard, he ___ (pass) the exam.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will pass"
+          ]
+        },
+        {
+          "prompt": "We ___ (miss) the train if we don't hurry.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will miss"
+          ]
+        },
+        {
+          "prompt": "If you eat too much, you ___ (feel) sick.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will feel"
+          ]
+        },
+        {
+          "prompt": "I ___ (not/go) if it's too cold.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "won't go"
+          ]
+        },
+        {
+          "prompt": "If she ___ (arrive) early, we can have breakfast.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "arrives"
+          ]
+        },
+        {
+          "prompt": "He ___ (be) angry if you are late.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will be"
+          ]
+        },
+        {
+          "prompt": "If they ___ (not/hurry), we'll leave without them.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "don't hurry"
+          ]
+        },
+        {
+          "prompt": "You ___ (feel) better if you rest.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "will feel"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "title": "Second Conditional",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "If I ___ (have) more money, I would travel.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had"
+          ]
+        },
+        {
+          "prompt": "She would be happier if she ___ (live) near the sea.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "lived"
+          ]
+        },
+        {
+          "prompt": "If he ___ (study) more, he would get better grades.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "studied"
+          ]
+        },
+        {
+          "prompt": "I would buy a car if I ___ (can) drive.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "could"
+          ]
+        },
+        {
+          "prompt": "If they ___ (not/be) so busy, they would visit.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "weren't"
+          ]
+        },
+        {
+          "prompt": "She would call if she ___ (have) your number.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had"
+          ]
+        },
+        {
+          "prompt": "If I ___ (be) you, I would apologise.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "were"
+          ]
+        },
+        {
+          "prompt": "He would help if he ___ (know) how.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "knew"
+          ]
+        },
+        {
+          "prompt": "If it ___ (not/rain), we would go to the park.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "didn't rain"
+          ]
+        },
+        {
+          "prompt": "I would eat more if the food ___ (taste) better.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "tasted"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "title": "Third Conditional",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "If she ___ (study), she would have passed.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had studied"
+          ]
+        },
+        {
+          "prompt": "We would have arrived on time if we ___ (leave) earlier.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had left"
+          ]
+        },
+        {
+          "prompt": "If he ___ (not/drink), he wouldn't have felt ill.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "hadn't drunk"
+          ]
+        },
+        {
+          "prompt": "She would have called if she ___ (have) your number.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had had"
+          ]
+        },
+        {
+          "prompt": "If they ___ (win), they would have celebrated.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had won"
+          ]
+        },
+        {
+          "prompt": "I would have helped if you ___ (ask) me.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had asked"
+          ]
+        },
+        {
+          "prompt": "He ___ (not/fall) if he had been more careful.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "wouldn't have fallen"
+          ]
+        },
+        {
+          "prompt": "If we ___ (book) earlier, we'd have got cheaper tickets.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had booked"
+          ]
+        },
+        {
+          "prompt": "She would have been happy if he ___ (come).",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had come"
+          ]
+        },
+        {
+          "prompt": "If I ___ (know), I would have told you.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had known"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "title": "Mixed Conditionals",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "If I had studied medicine, I ___ (be) a doctor now.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "would be"
+          ]
+        },
+        {
+          "prompt": "If she ___ (take) the job, she would be rich now.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had taken"
+          ]
+        },
+        {
+          "prompt": "He would be healthier now if he ___ (start) exercising earlier.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had started"
+          ]
+        },
+        {
+          "prompt": "If I ___ (be) braver, I would have told her the truth.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "were"
+          ]
+        },
+        {
+          "prompt": "She would have more friends if she ___ (not/be) so shy.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "weren't"
+          ]
+        },
+        {
+          "prompt": "If he had saved more money, he ___ (can/afford) a house now.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "could afford"
+          ]
+        },
+        {
+          "prompt": "If I ___ (speak) French, I would have got the job.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "spoke"
+          ]
+        },
+        {
+          "prompt": "She would have applied if she ___ (be) more confident.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "were"
+          ]
+        },
+        {
+          "prompt": "If they ___ (leave) earlier, they would be there by now.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had left"
+          ]
+        },
+        {
+          "prompt": "He would be sleeping now if he ___ (not/drink) coffee.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "hadn't drunk"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "title": "Unless / As long as / Provided that",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "I will come ___ it rains.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "unless"
+          ]
+        },
+        {
+          "prompt": "You can go out ___ you finish your homework.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "as long as"
+          ]
+        },
+        {
+          "prompt": "She will sign the contract ___ they increase her salary.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "provided that"
+          ]
+        },
+        {
+          "prompt": "___ you work hard, you will succeed.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "As long as"
+          ]
+        },
+        {
+          "prompt": "He won't help ___ you ask him nicely.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "unless"
+          ]
+        },
+        {
+          "prompt": "___ the weather is good, we will have a picnic.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Provided that"
+          ]
+        },
+        {
+          "prompt": "She will stay ___ things improve.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "unless"
+          ]
+        },
+        {
+          "prompt": "You can borrow my car ___ you are careful.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "as long as"
+          ]
+        },
+        {
+          "prompt": "He will attend ___ he is invited.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "provided that"
+          ]
+        },
+        {
+          "prompt": "___ you hurry, you will miss the bus.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Unless"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "title": "Wish + Conditionals",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "I wish I ___ (have) more time.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had"
+          ]
+        },
+        {
+          "prompt": "She wishes she ___ (live) in Paris.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "lived"
+          ]
+        },
+        {
+          "prompt": "I wish I ___ (can) speak Spanish.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "could"
+          ]
+        },
+        {
+          "prompt": "He wishes he ___ (not/say) that.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "hadn't said"
+          ]
+        },
+        {
+          "prompt": "She wishes she ___ (study) harder.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had studied"
+          ]
+        },
+        {
+          "prompt": "I wish it ___ (not/rain) so much.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "didn't rain"
+          ]
+        },
+        {
+          "prompt": "He wishes he ___ (be) taller.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "were"
+          ]
+        },
+        {
+          "prompt": "She wishes she ___ (take) that job.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had taken"
+          ]
+        },
+        {
+          "prompt": "I wish I ___ (know) the answer.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "knew"
+          ]
+        },
+        {
+          "prompt": "They wish they ___ (go) on holiday.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "could go"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "title": "If only",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "___ I had listened to my parents!",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "If only"
+          ]
+        },
+        {
+          "prompt": "If only she ___ (be) here right now.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "were"
+          ]
+        },
+        {
+          "prompt": "___ he hadn't said that!",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "If only"
+          ]
+        },
+        {
+          "prompt": "If only I ___ (study) harder for the exam.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had studied"
+          ]
+        },
+        {
+          "prompt": "___ we had more time!",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "If only"
+          ]
+        },
+        {
+          "prompt": "If only she ___ (not/leave) so early.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "hadn't left"
+          ]
+        },
+        {
+          "prompt": "___ I could turn back time!",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "If only"
+          ]
+        },
+        {
+          "prompt": "If only he ___ (call) me yesterday.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had called"
+          ]
+        },
+        {
+          "prompt": "___ it would stop raining!",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "If only"
+          ]
+        },
+        {
+          "prompt": "If only I ___ (take) that opportunity.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had taken"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "title": "Inverted Conditionals",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "___ I known, I would have helped. (Had/If)",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Had"
+          ]
+        },
+        {
+          "prompt": "___ you to need help, call me. (Should/Would)",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Should"
+          ]
+        },
+        {
+          "prompt": "___ it not been for her, we would have failed. (Had/Were)",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Had"
+          ]
+        },
+        {
+          "prompt": "___ I in your position, I would apologise. (Were/Had)",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Were"
+          ]
+        },
+        {
+          "prompt": "___ he to arrive late, please start without him. (Should/Would)",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Should"
+          ]
+        },
+        {
+          "prompt": "___ it not raining, we could go outside. (Were/Had)",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Were"
+          ]
+        },
+        {
+          "prompt": "___ I known the truth, things would be different. (Had/Were)",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Had"
+          ]
+        },
+        {
+          "prompt": "___ she to call, tell her I'm out. (Should/Were)",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Should"
+          ]
+        },
+        {
+          "prompt": "___ they known earlier, they would have acted. (Had/Were)",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Had"
+          ]
+        },
+        {
+          "prompt": "___ you to change your mind, let me know. (Should/Were)",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Should"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "title": "Should + Conditional",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "___ you need any help, don't hesitate to ask.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Should"
+          ]
+        },
+        {
+          "prompt": "If you ___ happen to see her, say hello.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "should"
+          ]
+        },
+        {
+          "prompt": "___ there be any problems, contact us immediately.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Should"
+          ]
+        },
+        {
+          "prompt": "If he ___ call, tell him I'm busy.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "should"
+          ]
+        },
+        {
+          "prompt": "___ the weather change, we'll move indoors.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Should"
+          ]
+        },
+        {
+          "prompt": "If she ___ decide to come, there's a spare room.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "should"
+          ]
+        },
+        {
+          "prompt": "___ you require further information, please email us.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Should"
+          ]
+        },
+        {
+          "prompt": "If they ___ arrive early, ask them to wait.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "should"
+          ]
+        },
+        {
+          "prompt": "___ anything go wrong, here is the emergency number.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Should"
+          ]
+        },
+        {
+          "prompt": "If you ___ find the key, please return it.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "should"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 11,
+      "title": "Would rather / Would sooner",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "I would rather ___ (stay) at home tonight.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "stay"
+          ]
+        },
+        {
+          "prompt": "She would sooner ___ (leave) than argue.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "leave"
+          ]
+        },
+        {
+          "prompt": "I would rather you ___ (not/do) that.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "didn't do"
+          ]
+        },
+        {
+          "prompt": "He would rather ___ (work) alone.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "work"
+          ]
+        },
+        {
+          "prompt": "She would sooner ___ (resign) than accept those terms.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "resign"
+          ]
+        },
+        {
+          "prompt": "I would rather he ___ (come) earlier.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "came"
+          ]
+        },
+        {
+          "prompt": "They would rather ___ (not/know) the truth.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "not know"
+          ]
+        },
+        {
+          "prompt": "She would sooner ___ (walk) than take the bus.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "walk"
+          ]
+        },
+        {
+          "prompt": "I would rather you ___ (tell) me the truth.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "told"
+          ]
+        },
+        {
+          "prompt": "He would rather ___ (be) anywhere else.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "be"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 12,
+      "title": "Supposing / Imagine",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "___ it rains, what will we do? (Supposing/Imagine)",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Supposing"
+          ]
+        },
+        {
+          "prompt": "___ you won the lottery — what would you do?",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Imagine"
+          ]
+        },
+        {
+          "prompt": "___ she doesn't come — who will present?",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Supposing"
+          ]
+        },
+        {
+          "prompt": "___ you could fly — where would you go?",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Imagine"
+          ]
+        },
+        {
+          "prompt": "___ he says no — what is our plan B?",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Supposing"
+          ]
+        },
+        {
+          "prompt": "___ living in a world without phones!",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Imagine"
+          ]
+        },
+        {
+          "prompt": "___ we missed the deadline — what would happen?",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Supposing"
+          ]
+        },
+        {
+          "prompt": "___ you were invisible for a day!",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Imagine"
+          ]
+        },
+        {
+          "prompt": "___ they found out the truth?",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Supposing"
+          ]
+        },
+        {
+          "prompt": "___ never having to work again!",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Imagine"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 13,
+      "title": "In case",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "Take an umbrella ___ it rains.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "in case"
+          ]
+        },
+        {
+          "prompt": "Write it down ___ you forget.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "in case"
+          ]
+        },
+        {
+          "prompt": "I'll save your number ___ I need it.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "in case"
+          ]
+        },
+        {
+          "prompt": "She brought extra food ___ guests arrived.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "in case"
+          ]
+        },
+        {
+          "prompt": "Lock the door ___ someone tries to get in.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "in case"
+          ]
+        },
+        {
+          "prompt": "I'll charge my phone ___ the battery dies.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "in case"
+          ]
+        },
+        {
+          "prompt": "He took a map ___ they got lost.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "in case"
+          ]
+        },
+        {
+          "prompt": "She left early ___ there was traffic.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "in case"
+          ]
+        },
+        {
+          "prompt": "I'll take some cash ___ they don't accept cards.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "in case"
+          ]
+        },
+        {
+          "prompt": "He kept the receipt ___ he needed a refund.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "in case"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 14,
+      "title": "Even if / Even though",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "___ I were rich, I wouldn't stop working.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Even if"
+          ]
+        },
+        {
+          "prompt": "She went to work ___ she was ill.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "even though"
+          ]
+        },
+        {
+          "prompt": "___ you paid me, I wouldn't do it.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Even if"
+          ]
+        },
+        {
+          "prompt": "He smiled ___ he was upset.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "even though"
+          ]
+        },
+        {
+          "prompt": "___ it rains, we will still go.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Even if"
+          ]
+        },
+        {
+          "prompt": "She passed the exam ___ she barely studied.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "even though"
+          ]
+        },
+        {
+          "prompt": "___ I tried, I couldn't do it.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Even if"
+          ]
+        },
+        {
+          "prompt": "He kept going ___ everyone told him to stop.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "even though"
+          ]
+        },
+        {
+          "prompt": "___ she apologises, I won't forgive her.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Even if"
+          ]
+        },
+        {
+          "prompt": "She stayed calm ___ the situation was serious.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "even though"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 15,
+      "title": "Mixed Conditionals Practice",
+      "columns": [
+        "Sentence",
+        "Answer"
+      ],
+      "items": [
+        {
+          "prompt": "If you ___ (study) last night, you would know the answer.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "had studied"
+          ]
+        },
+        {
+          "prompt": "Unless she ___ (hurry), she will miss the train.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "hurries"
+          ]
+        },
+        {
+          "prompt": "I wish I ___ (can) help you more.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "could"
+          ]
+        },
+        {
+          "prompt": "___ I known, I would have told you. (Had/Were)",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Had"
+          ]
+        },
+        {
+          "prompt": "If only he ___ (not/leave) so early!",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "hadn't left"
+          ]
+        },
+        {
+          "prompt": "___ you need anything, just ask. (Should/Would)",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Should"
+          ]
+        },
+        {
+          "prompt": "She went out ___ it was raining heavily.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "even though"
+          ]
+        },
+        {
+          "prompt": "Take a jacket ___ it gets cold.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "in case"
+          ]
+        },
+        {
+          "prompt": "I would rather he ___ (not/come) to the party.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "didn't come"
+          ]
+        },
+        {
+          "prompt": "___ she passes her exams, she can go to university.",
+          "question": "Fill in the correct form:",
+          "labels": [
+            "Answer"
+          ],
+          "answers": [
+            "Provided that"
+          ]
+        }
+      ]
+    }
+  ]
+}

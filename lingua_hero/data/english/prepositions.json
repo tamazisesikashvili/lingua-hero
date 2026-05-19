@@ -1,0 +1,2754 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "title": "in / on / at — Places",
+      "columns": [
+        "Sentence",
+        "Preposition"
+      ],
+      "items": [
+        {
+          "prompt": "She lives ___ London.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in"
+          ]
+        },
+        {
+          "prompt": "The book is ___ the table.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "on"
+          ]
+        },
+        {
+          "prompt": "He is ___ school right now.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "at"
+          ]
+        },
+        {
+          "prompt": "They met ___ the airport.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "at"
+          ]
+        },
+        {
+          "prompt": "There is a cat ___ the garden.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in"
+          ]
+        },
+        {
+          "prompt": "The picture is ___ the wall.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "on"
+          ]
+        },
+        {
+          "prompt": "She works ___ a hospital.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "at"
+          ]
+        },
+        {
+          "prompt": "He lives ___ a small village.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in"
+          ]
+        },
+        {
+          "prompt": "The keys are ___ the shelf.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "on"
+          ]
+        },
+        {
+          "prompt": "We arrived ___ the station.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "at"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "title": "above / below / under / over",
+      "columns": [
+        "Sentence",
+        "Preposition"
+      ],
+      "items": [
+        {
+          "prompt": "The plane flew ___ the clouds.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "above"
+          ]
+        },
+        {
+          "prompt": "The temperature dropped ___ zero.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "below"
+          ]
+        },
+        {
+          "prompt": "The cat is hiding ___ the bed.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "under"
+          ]
+        },
+        {
+          "prompt": "She put a blanket ___ him.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "over"
+          ]
+        },
+        {
+          "prompt": "The sun is ___ the horizon.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "above"
+          ]
+        },
+        {
+          "prompt": "The village is ___ sea level.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "below"
+          ]
+        },
+        {
+          "prompt": "He crawled ___ the fence.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "under"
+          ]
+        },
+        {
+          "prompt": "She held an umbrella ___ her head.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "over"
+          ]
+        },
+        {
+          "prompt": "The swimming pool is ___ ground level.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "below"
+          ]
+        },
+        {
+          "prompt": "The bridge ___ the river is old.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "over"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "title": "in front of / behind / next to / between",
+      "columns": [
+        "Sentence",
+        "Preposition"
+      ],
+      "items": [
+        {
+          "prompt": "She sat ___ me in the cinema.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "behind"
+          ]
+        },
+        {
+          "prompt": "The car is parked ___ the house.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in front of"
+          ]
+        },
+        {
+          "prompt": "He stood ___ the two tall men.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "between"
+          ]
+        },
+        {
+          "prompt": "I sat ___ my best friend.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "next to"
+          ]
+        },
+        {
+          "prompt": "The garden is ___ the house.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "behind"
+          ]
+        },
+        {
+          "prompt": "There is a bus stop ___ the bank.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in front of"
+          ]
+        },
+        {
+          "prompt": "She stood ___ her two sisters.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "between"
+          ]
+        },
+        {
+          "prompt": "The pharmacy is ___ the supermarket.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "next to"
+          ]
+        },
+        {
+          "prompt": "The sign is ___ the entrance.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in front of"
+          ]
+        },
+        {
+          "prompt": "The dog is hiding ___ the sofa.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "behind"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "title": "inside / outside / near / far from",
+      "columns": [
+        "Sentence",
+        "Preposition"
+      ],
+      "items": [
+        {
+          "prompt": "It was cold so we stayed ___.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "inside"
+          ]
+        },
+        {
+          "prompt": "The children are playing ___.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "outside"
+          ]
+        },
+        {
+          "prompt": "She lives ___ the city centre.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "near"
+          ]
+        },
+        {
+          "prompt": "The airport is ___ the town.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "far from"
+          ]
+        },
+        {
+          "prompt": "He went ___ to get some fresh air.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "outside"
+          ]
+        },
+        {
+          "prompt": "Please come ___— it is raining!",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "inside"
+          ]
+        },
+        {
+          "prompt": "Is there a supermarket ___ here?",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "near"
+          ]
+        },
+        {
+          "prompt": "The school is not ___ the station.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "far from"
+          ]
+        },
+        {
+          "prompt": "They found the treasure ___ the cave.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "inside"
+          ]
+        },
+        {
+          "prompt": "It is very noisy ___ the building.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "outside"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "title": "on top of / at the bottom of / in the middle of",
+      "columns": [
+        "Sentence",
+        "Preposition"
+      ],
+      "items": [
+        {
+          "prompt": "There is a flag ___ the mountain.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "on top of"
+          ]
+        },
+        {
+          "prompt": "She signed her name ___ the page.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "at the bottom of"
+          ]
+        },
+        {
+          "prompt": "He stopped ___ his speech.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in the middle of"
+          ]
+        },
+        {
+          "prompt": "The cat sat ___ the wardrobe.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "on top of"
+          ]
+        },
+        {
+          "prompt": "The price is shown ___ the receipt.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "at the bottom of"
+          ]
+        },
+        {
+          "prompt": "There is a fountain ___ the square.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in the middle of"
+          ]
+        },
+        {
+          "prompt": "He left his bag ___ the stairs.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "at the bottom of"
+          ]
+        },
+        {
+          "prompt": "She put the vase ___ the table.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "on top of"
+          ]
+        },
+        {
+          "prompt": "They live ___ nowhere.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in the middle of"
+          ]
+        },
+        {
+          "prompt": "The date is ___ the document.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "at the bottom of"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "title": "in / on / at — Time",
+      "columns": [
+        "Sentence",
+        "Preposition"
+      ],
+      "items": [
+        {
+          "prompt": "She was born ___ 1995.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in"
+          ]
+        },
+        {
+          "prompt": "The meeting is ___ Monday.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "on"
+          ]
+        },
+        {
+          "prompt": "He always wakes up ___ 7am.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "at"
+          ]
+        },
+        {
+          "prompt": "We go on holiday ___ August.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in"
+          ]
+        },
+        {
+          "prompt": "The match is ___ Saturday evening.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "on"
+          ]
+        },
+        {
+          "prompt": "She arrived ___ midnight.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "at"
+          ]
+        },
+        {
+          "prompt": "He was born ___ the winter.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in"
+          ]
+        },
+        {
+          "prompt": "The show starts ___ 8 o'clock.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "at"
+          ]
+        },
+        {
+          "prompt": "They got married ___ Valentine's Day.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "on"
+          ]
+        },
+        {
+          "prompt": "I always feel tired ___ the morning.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "title": "before / after / during",
+      "columns": [
+        "Sentence",
+        "Preposition"
+      ],
+      "items": [
+        {
+          "prompt": "Please wash your hands ___ dinner.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "before"
+          ]
+        },
+        {
+          "prompt": "She went for a walk ___ work.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "after"
+          ]
+        },
+        {
+          "prompt": "He fell asleep ___ the film.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "during"
+          ]
+        },
+        {
+          "prompt": "___ the storm, many trees fell.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "During"
+          ]
+        },
+        {
+          "prompt": "I always brush my teeth ___ going to bed.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "before"
+          ]
+        },
+        {
+          "prompt": "She felt much better ___ the operation.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "after"
+          ]
+        },
+        {
+          "prompt": "Please be quiet ___ the performance.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "during"
+          ]
+        },
+        {
+          "prompt": "He called me ___ arriving home.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "after"
+          ]
+        },
+        {
+          "prompt": "Finish your work ___ you go out.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "before"
+          ]
+        },
+        {
+          "prompt": "There was a power cut ___ the night.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "during"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "title": "for / since / ago",
+      "columns": [
+        "Sentence",
+        "Preposition"
+      ],
+      "items": [
+        {
+          "prompt": "She has lived here ___ 2010.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "since"
+          ]
+        },
+        {
+          "prompt": "I have been waiting ___ an hour.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "for"
+          ]
+        },
+        {
+          "prompt": "He left three days ___.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "ago"
+          ]
+        },
+        {
+          "prompt": "They have been married ___ 20 years.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "for"
+          ]
+        },
+        {
+          "prompt": "She started the job ___ January.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "since"
+          ]
+        },
+        {
+          "prompt": "I bought this phone two years ___.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "ago"
+          ]
+        },
+        {
+          "prompt": "He has worked here ___ he was 20.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "since"
+          ]
+        },
+        {
+          "prompt": "We have known each other ___ years.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "for"
+          ]
+        },
+        {
+          "prompt": "She moved here a month ___.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "ago"
+          ]
+        },
+        {
+          "prompt": "I have not eaten ___ breakfast.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "since"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "title": "by / until / till",
+      "columns": [
+        "Sentence",
+        "Preposition"
+      ],
+      "items": [
+        {
+          "prompt": "Please finish the report ___ Friday.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "by"
+          ]
+        },
+        {
+          "prompt": "She waited ___ midnight.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "until"
+          ]
+        },
+        {
+          "prompt": "I will stay here ___ you come back.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "till"
+          ]
+        },
+        {
+          "prompt": "The work must be done ___ tomorrow.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "by"
+          ]
+        },
+        {
+          "prompt": "He did not stop ___ he finished.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "until"
+          ]
+        },
+        {
+          "prompt": "We can talk ___ the bus arrives.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "till"
+          ]
+        },
+        {
+          "prompt": "She must pay ___ the end of the month.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "by"
+          ]
+        },
+        {
+          "prompt": "I did not know ___ she told me.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "until"
+          ]
+        },
+        {
+          "prompt": "Wait here ___ I get back.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "till"
+          ]
+        },
+        {
+          "prompt": "The project must be submitted ___ noon.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "by"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "title": "within / throughout / from…to",
+      "columns": [
+        "Sentence",
+        "Preposition"
+      ],
+      "items": [
+        {
+          "prompt": "She replied ___ five minutes.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "within"
+          ]
+        },
+        {
+          "prompt": "It rained ___ the whole week.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "throughout"
+          ]
+        },
+        {
+          "prompt": "The shop is open ___ 9am ___ 6pm.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "from / to"
+          ]
+        },
+        {
+          "prompt": "Please respond ___ 24 hours.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "within"
+          ]
+        },
+        {
+          "prompt": "He was famous ___ his entire life.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "throughout"
+          ]
+        },
+        {
+          "prompt": "The temperature varied ___ 5 to 20 degrees.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "from"
+          ]
+        },
+        {
+          "prompt": "She stayed calm ___ the crisis.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "throughout"
+          ]
+        },
+        {
+          "prompt": "Results will be sent ___ two weeks.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "within"
+          ]
+        },
+        {
+          "prompt": "The festival runs ___ Friday ___ Sunday.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "from / to"
+          ]
+        },
+        {
+          "prompt": "He worked hard ___ his career.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "throughout"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 11,
+      "title": "to / into / onto",
+      "columns": [
+        "Sentence",
+        "Preposition"
+      ],
+      "items": [
+        {
+          "prompt": "She walked ___ the room.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "into"
+          ]
+        },
+        {
+          "prompt": "He jumped ___ the stage.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "onto"
+          ]
+        },
+        {
+          "prompt": "We drove ___ the city centre.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "to"
+          ]
+        },
+        {
+          "prompt": "She poured the water ___ the glass.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "into"
+          ]
+        },
+        {
+          "prompt": "The cat climbed ___ the roof.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "onto"
+          ]
+        },
+        {
+          "prompt": "I am going ___ the supermarket.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "to"
+          ]
+        },
+        {
+          "prompt": "He fell ___ the pool.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "into"
+          ]
+        },
+        {
+          "prompt": "She put the box ___ the shelf.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "onto"
+          ]
+        },
+        {
+          "prompt": "We flew ___ New York.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "to"
+          ]
+        },
+        {
+          "prompt": "He dived ___ the water.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "into"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 12,
+      "title": "from / out of / off",
+      "columns": [
+        "Sentence",
+        "Preposition"
+      ],
+      "items": [
+        {
+          "prompt": "She came ___ Spain originally.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "from"
+          ]
+        },
+        {
+          "prompt": "He jumped ___ the car.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "out of"
+          ]
+        },
+        {
+          "prompt": "The book fell ___ the shelf.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "off"
+          ]
+        },
+        {
+          "prompt": "She ran ___ the building.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "out of"
+          ]
+        },
+        {
+          "prompt": "He took the wallet ___ his pocket.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "out of"
+          ]
+        },
+        {
+          "prompt": "The picture fell ___ the wall.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "off"
+          ]
+        },
+        {
+          "prompt": "I got a letter ___ the bank.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "from"
+          ]
+        },
+        {
+          "prompt": "She stepped ___ the bus.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "off"
+          ]
+        },
+        {
+          "prompt": "He drove ___ London to Paris.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "from"
+          ]
+        },
+        {
+          "prompt": "She got ___ bed at 7am.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "out of"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 13,
+      "title": "through / across / along / around",
+      "columns": [
+        "Sentence",
+        "Preposition"
+      ],
+      "items": [
+        {
+          "prompt": "She walked ___ the park.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "through"
+          ]
+        },
+        {
+          "prompt": "He swam ___ the river.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "across"
+          ]
+        },
+        {
+          "prompt": "They strolled ___ the river bank.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "along"
+          ]
+        },
+        {
+          "prompt": "She walked ___ the block.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "around"
+          ]
+        },
+        {
+          "prompt": "The train passed ___ the tunnel.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "through"
+          ]
+        },
+        {
+          "prompt": "There is a bridge ___ the road.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "across"
+          ]
+        },
+        {
+          "prompt": "He drove ___ the coast.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "along"
+          ]
+        },
+        {
+          "prompt": "She travelled ___ the world.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "around"
+          ]
+        },
+        {
+          "prompt": "Light passes ___ glass.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "through"
+          ]
+        },
+        {
+          "prompt": "She looked ___ the room nervously.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "around"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 14,
+      "title": "Verbs + prepositions 1",
+      "columns": [
+        "Sentence",
+        "Preposition"
+      ],
+      "items": [
+        {
+          "prompt": "I always listen ___ music when I study.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "to"
+          ]
+        },
+        {
+          "prompt": "She is looking ___ her lost keys.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "for"
+          ]
+        },
+        {
+          "prompt": "He depends ___ his parents.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "on"
+          ]
+        },
+        {
+          "prompt": "They are waiting ___ the bus.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "for"
+          ]
+        },
+        {
+          "prompt": "She looked ___ the painting carefully.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "at"
+          ]
+        },
+        {
+          "prompt": "He is thinking ___ changing jobs.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "about"
+          ]
+        },
+        {
+          "prompt": "We talked ___ the problem.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "about"
+          ]
+        },
+        {
+          "prompt": "She apologised ___ being late.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "for"
+          ]
+        },
+        {
+          "prompt": "He succeeded ___ passing the exam.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in"
+          ]
+        },
+        {
+          "prompt": "I am looking forward ___ the weekend.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "to"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 15,
+      "title": "Verbs + prepositions 2",
+      "columns": [
+        "Sentence",
+        "Preposition"
+      ],
+      "items": [
+        {
+          "prompt": "She agrees ___ me on this.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "with"
+          ]
+        },
+        {
+          "prompt": "He believes ___ working hard.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in"
+          ]
+        },
+        {
+          "prompt": "She cares ___ her family.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "about"
+          ]
+        },
+        {
+          "prompt": "They complained ___ the noise.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "about"
+          ]
+        },
+        {
+          "prompt": "He is concentrating ___ his work.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "on"
+          ]
+        },
+        {
+          "prompt": "She dreamed ___ becoming a doctor.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "of"
+          ]
+        },
+        {
+          "prompt": "He insisted ___ paying the bill.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "on"
+          ]
+        },
+        {
+          "prompt": "She is suffering ___ a cold.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "from"
+          ]
+        },
+        {
+          "prompt": "They voted ___ the new law.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "for"
+          ]
+        },
+        {
+          "prompt": "He warned us ___ the danger.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "about"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 16,
+      "title": "Verbs + prepositions 3",
+      "columns": [
+        "Sentence",
+        "Preposition"
+      ],
+      "items": [
+        {
+          "prompt": "She is interested ___ photography.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in"
+          ]
+        },
+        {
+          "prompt": "He is good ___ maths.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "at"
+          ]
+        },
+        {
+          "prompt": "She is afraid ___ spiders.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "of"
+          ]
+        },
+        {
+          "prompt": "He is proud ___ his children.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "of"
+          ]
+        },
+        {
+          "prompt": "She is excited ___ the trip.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "about"
+          ]
+        },
+        {
+          "prompt": "He is responsible ___ the project.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "for"
+          ]
+        },
+        {
+          "prompt": "She is tired ___ waiting.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "of"
+          ]
+        },
+        {
+          "prompt": "He is angry ___ the decision.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "about"
+          ]
+        },
+        {
+          "prompt": "She is bored ___ her job.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "with"
+          ]
+        },
+        {
+          "prompt": "He is familiar ___ the area.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "with"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 17,
+      "title": "Adjectives + prepositions",
+      "columns": [
+        "Sentence",
+        "Preposition"
+      ],
+      "items": [
+        {
+          "prompt": "She is similar ___ her mother.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "to"
+          ]
+        },
+        {
+          "prompt": "He is different ___ his brother.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "from"
+          ]
+        },
+        {
+          "prompt": "She is capable ___ doing it.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "of"
+          ]
+        },
+        {
+          "prompt": "He is aware ___ the risks.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "of"
+          ]
+        },
+        {
+          "prompt": "She is satisfied ___ the result.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "with"
+          ]
+        },
+        {
+          "prompt": "He is grateful ___ her help.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "for"
+          ]
+        },
+        {
+          "prompt": "She is confused ___ the instructions.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "by"
+          ]
+        },
+        {
+          "prompt": "He is allergic ___ cats.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "to"
+          ]
+        },
+        {
+          "prompt": "She is obsessed ___ social media.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "with"
+          ]
+        },
+        {
+          "prompt": "He is impressed ___ her work.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "by"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 18,
+      "title": "Nouns + prepositions",
+      "columns": [
+        "Sentence",
+        "Preposition"
+      ],
+      "items": [
+        {
+          "prompt": "There is a solution ___ every problem.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "to"
+          ]
+        },
+        {
+          "prompt": "The reason ___ her absence was illness.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "for"
+          ]
+        },
+        {
+          "prompt": "There has been an increase ___ prices.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in"
+          ]
+        },
+        {
+          "prompt": "She has a talent ___ music.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "for"
+          ]
+        },
+        {
+          "prompt": "There is a shortage ___ water.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "of"
+          ]
+        },
+        {
+          "prompt": "He has a good relationship ___ his boss.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "with"
+          ]
+        },
+        {
+          "prompt": "The demand ___ electric cars is growing.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "for"
+          ]
+        },
+        {
+          "prompt": "She has experience ___ teaching.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in"
+          ]
+        },
+        {
+          "prompt": "There is a connection ___ the two events.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "between"
+          ]
+        },
+        {
+          "prompt": "He made a contribution ___ the project.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "to"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 19,
+      "title": "Fixed phrases",
+      "columns": [
+        "Sentence",
+        "Preposition"
+      ],
+      "items": [
+        {
+          "prompt": "___ general, people are kind.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "In"
+          ]
+        },
+        {
+          "prompt": "He arrived ___ time for the meeting.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "on"
+          ]
+        },
+        {
+          "prompt": "She was ___ a hurry.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in"
+          ]
+        },
+        {
+          "prompt": "___ average, it takes an hour.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "On"
+          ]
+        },
+        {
+          "prompt": "___ least, say sorry.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "At"
+          ]
+        },
+        {
+          "prompt": "She is ___ holiday this week.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "on"
+          ]
+        },
+        {
+          "prompt": "___ the end, we agreed.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "In"
+          ]
+        },
+        {
+          "prompt": "He did it ___ purpose.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "on"
+          ]
+        },
+        {
+          "prompt": "She is ___ trouble again.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in"
+          ]
+        },
+        {
+          "prompt": "___ fact, I agree with you.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "In"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 20,
+      "title": "Transport prepositions",
+      "columns": [
+        "Sentence",
+        "Preposition"
+      ],
+      "items": [
+        {
+          "prompt": "She came ___ the bus.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "on"
+          ]
+        },
+        {
+          "prompt": "He arrived ___ a taxi.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in"
+          ]
+        },
+        {
+          "prompt": "They flew ___ a plane.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "on"
+          ]
+        },
+        {
+          "prompt": "She commutes ___ train.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "by"
+          ]
+        },
+        {
+          "prompt": "He goes to work ___ foot.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "on"
+          ]
+        },
+        {
+          "prompt": "She travelled ___ her car.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in"
+          ]
+        },
+        {
+          "prompt": "He came ___ motorbike.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "by"
+          ]
+        },
+        {
+          "prompt": "She got ___ the bus at the next stop.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "on"
+          ]
+        },
+        {
+          "prompt": "He rode ___ a bicycle.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "on"
+          ]
+        },
+        {
+          "prompt": "She travels ___ boat every day.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "by"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 21,
+      "title": "Prepositions of manner",
+      "columns": [
+        "Sentence",
+        "Preposition"
+      ],
+      "items": [
+        {
+          "prompt": "She wrote the letter ___ hand.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "by"
+          ]
+        },
+        {
+          "prompt": "He fixed it ___ accident.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "by"
+          ]
+        },
+        {
+          "prompt": "She did it ___ purpose.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "on"
+          ]
+        },
+        {
+          "prompt": "He spoke ___ a whisper.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in"
+          ]
+        },
+        {
+          "prompt": "She paid ___ cash.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in"
+          ]
+        },
+        {
+          "prompt": "He did the work ___ care.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "with"
+          ]
+        },
+        {
+          "prompt": "She answered ___ a loud voice.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in"
+          ]
+        },
+        {
+          "prompt": "He left ___ a hurry.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in"
+          ]
+        },
+        {
+          "prompt": "She did it ___ her own.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "on"
+          ]
+        },
+        {
+          "prompt": "He reacted ___ anger.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "with"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 22,
+      "title": "Mixed — common mistakes 1",
+      "columns": [
+        "Sentence",
+        "Preposition"
+      ],
+      "items": [
+        {
+          "prompt": "She has been here ___ Monday.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "since"
+          ]
+        },
+        {
+          "prompt": "I will be ready ___ 5 minutes.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in"
+          ]
+        },
+        {
+          "prompt": "He arrived ___ the airport early.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "at"
+          ]
+        },
+        {
+          "prompt": "She is interested ___ art.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in"
+          ]
+        },
+        {
+          "prompt": "We will meet ___ Friday morning.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "on"
+          ]
+        },
+        {
+          "prompt": "He is waiting ___ the results.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "for"
+          ]
+        },
+        {
+          "prompt": "She lives ___ the third floor.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "on"
+          ]
+        },
+        {
+          "prompt": "I am good ___ cooking.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "at"
+          ]
+        },
+        {
+          "prompt": "He graduated ___ university last year.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "from"
+          ]
+        },
+        {
+          "prompt": "She is married ___ a doctor.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "to"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 23,
+      "title": "Mixed — common mistakes 2",
+      "columns": [
+        "Sentence",
+        "Preposition"
+      ],
+      "items": [
+        {
+          "prompt": "He is bored ___ doing the same thing.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "of"
+          ]
+        },
+        {
+          "prompt": "She apologised ___ the mistake.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "for"
+          ]
+        },
+        {
+          "prompt": "I am looking forward ___ seeing you.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "to"
+          ]
+        },
+        {
+          "prompt": "He is proud ___ what he achieved.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "of"
+          ]
+        },
+        {
+          "prompt": "She complained ___ the service.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "about"
+          ]
+        },
+        {
+          "prompt": "He is responsible ___ five people.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "for"
+          ]
+        },
+        {
+          "prompt": "She is allergic ___ peanuts.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "to"
+          ]
+        },
+        {
+          "prompt": "He depends ___ his savings.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "on"
+          ]
+        },
+        {
+          "prompt": "She is afraid ___ the dark.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "of"
+          ]
+        },
+        {
+          "prompt": "He is aware ___ the problem.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "of"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 24,
+      "title": "Advanced combinations 1",
+      "columns": [
+        "Sentence",
+        "Preposition"
+      ],
+      "items": [
+        {
+          "prompt": "She is on the verge ___ giving up.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "of"
+          ]
+        },
+        {
+          "prompt": "He acted ___ behalf ___ his company.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "on / of"
+          ]
+        },
+        {
+          "prompt": "She spoke ___ terms ___ the contract.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in / of"
+          ]
+        },
+        {
+          "prompt": "He did it ___ the sake ___ peace.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "for / of"
+          ]
+        },
+        {
+          "prompt": "She is ___ charge ___ the project.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in / of"
+          ]
+        },
+        {
+          "prompt": "He succeeded ___ spite ___ the difficulties.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in / of"
+          ]
+        },
+        {
+          "prompt": "She resigned ___ protest ___ the decision.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in / at"
+          ]
+        },
+        {
+          "prompt": "He is ___ favour ___ the new law.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in / of"
+          ]
+        },
+        {
+          "prompt": "She agreed ___ the condition ___ getting a raise.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "on / of"
+          ]
+        },
+        {
+          "prompt": "He acted ___ good faith.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "in"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 25,
+      "title": "Advanced combinations 2",
+      "columns": [
+        "Sentence",
+        "Preposition"
+      ],
+      "items": [
+        {
+          "prompt": "She dealt ___ the problem efficiently.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "with"
+          ]
+        },
+        {
+          "prompt": "He came ___ a solution quickly.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "up with"
+          ]
+        },
+        {
+          "prompt": "She put up ___ a lot of difficulties.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "with"
+          ]
+        },
+        {
+          "prompt": "He is cut ___ for this kind of work.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "out"
+          ]
+        },
+        {
+          "prompt": "She looks ___ to her mentor.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "up"
+          ]
+        },
+        {
+          "prompt": "He gave ___ after many attempts.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "up"
+          ]
+        },
+        {
+          "prompt": "She ran ___ an old friend yesterday.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "into"
+          ]
+        },
+        {
+          "prompt": "He carried ___ despite the setbacks.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "on"
+          ]
+        },
+        {
+          "prompt": "She made ___ for lost time.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "up"
+          ]
+        },
+        {
+          "prompt": "He looked ___ the information online.",
+          "question": "Fill in the correct preposition:",
+          "labels": [
+            "Preposition"
+          ],
+          "answers": [
+            "up"
+          ]
+        }
+      ]
+    }
+  ]
+}
