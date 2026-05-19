@@ -1,4 +1,5 @@
 from flask import Flask, render_template, request, session, redirect, url_for
+from datetime import timedelta
 import json
 import random
 import os
@@ -6,6 +7,7 @@ import sqlite3
 
 app = Flask(__name__)
 app.secret_key = "lingua_hero_secret_2025"
+app.config['PERMANENT_SESSION_LIFETIME'] = timedelta(days=1000)
 
 # ── Visitor tracking ─────────────────────────────────────────────────────────
 
@@ -41,6 +43,7 @@ init_db()  # Run once when the app starts
 
 @app.before_request
 def track_visitor():
+    session.permanent = True
     """Called automatically before every page load."""
     ip = request.headers.get("X-Forwarded-For", request.remote_addr)
     if ip:
