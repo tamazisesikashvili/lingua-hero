@@ -135,6 +135,14 @@ def home():
 def about():
     return render_template("about.html", visitors=get_visitor_count())
 
+@app.route("/sitemap.xml")
+def sitemap():
+    return app.send_static_file("sitemap.xml")
+
+@app.route("/robots.txt")
+def robots():
+    return app.send_static_file("robots.txt")
+
 @app.route("/<language>")
 def language_home(language):
     if language not in LANGUAGES:

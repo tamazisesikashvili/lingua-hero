@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lingua-hero.com/sitemap.xml
