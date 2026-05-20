@@ -7,7 +7,6 @@
   <p>{{ level['title'] }} · Study all {{ level['items'] | length }} items before playing</p>
 </div>
 
-<!-- Article colour legend (only for German articles topic) -->
 {% if topic_slug == 'articles' %}
 <div class="article-legend">
   <div class="legend-item"><span class="art-dot dot-der"></span> der — masculine</div>
@@ -19,10 +18,9 @@
 <table class="verb-table">
   <thead>
     <tr>
-      {% for col in level['columns'][:-1] %}
-      <th>{{ col }}</th>
-      {% endfor %}
-      {% if level['items'][0].get('english') %}
+      <th>{{ level['columns'][0] }}</th>
+      <th>{{ level['columns'][1] }}</th>
+      {% if level['items'][0]['english'] is defined %}
       <th class="th-translation">
         Translation
         <select class="lang-select" id="lang-select" onchange="switchLang(this.value)">
@@ -33,7 +31,9 @@
         </select>
       </th>
       {% else %}
-      <th>{{ level['columns'][-1] }}</th>
+      {% if level['columns'] | length > 2 %}
+      <th>{{ level['columns'][2] }}</th>
+      {% endif %}
       {% endif %}
     </tr>
   </thead>
@@ -41,20 +41,26 @@
     {% for item in level['items'] %}
     <tr>
       <td class="verb-base">{{ item['prompt'] }}</td>
+
       {% if topic_slug == 'articles' %}
       <td>
         <span class="art-dot dot-{{ item['answers'][0] }}"></span>
-        <span class="article-text art-{{ item['answers'][0] }}">{{ item['answers'][0] }}</span>
+        <span class="art-{{ item['answers'][0] }}">{{ item['answers'][0] }}</span>
       </td>
       {% else %}
-      {% for ans in item['answers'] %}
-      <td>{{ ans }}</td>
-      {% endfor %}
+      <td>{{ item['answers'][0] }}</td>
       {% endif %}
-      {% if item.get('english') %}
-      <td class="cell-translation" data-en="{{ item.get('english','') }}" data-ru="{{ item.get('russian','') }}" data-fr="{{ item.get('french','') }}" data-es="{{ item.get('spanish','') }}">
-        {{ item.get('english','') }}
+
+      {% if 'english' in item %}
+      <td class="cell-translation"
+          data-english="{{ item['english'] }}"
+          data-russian="{{ item['russian'] }}"
+          data-french="{{ item['french'] }}"
+          data-spanish="{{ item['spanish'] }}">
+        {{ item['english'] }}
       </td>
+      {% elif level['items'][0]['answers'] | length > 1 %}
+      <td>{{ item['answers'][1] }}</td>
       {% else %}
       <td></td>
       {% endif %}
@@ -82,14 +88,14 @@
 <script>
 function switchLang(lang) {
   localStorage.setItem('translationLang', lang);
-  document.querySelectorAll('.cell-translation').forEach(cell => {
-    cell.textContent = cell.dataset[lang] || '';
+  document.querySelectorAll('.cell-translation').forEach(function(cell) {
+    cell.textContent = cell.getAttribute('data-' + lang) || '';
   });
 }
 
 document.addEventListener('DOMContentLoaded', function() {
-  const saved = localStorage.getItem('translationLang') || 'english';
-  const select = document.getElementById('lang-select');
+  var saved = localStorage.getItem('translationLang') || 'english';
+  var select = document.getElementById('lang-select');
   if (select) {
     select.value = saved;
     switchLang(saved);
