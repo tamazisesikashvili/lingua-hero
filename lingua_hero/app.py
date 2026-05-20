@@ -131,6 +131,10 @@ def mark_completed(language, topic_slug, level_num):
 def home():
     return render_template("home.html", languages=LANGUAGES, visitors=get_visitor_count())
 
+@app.route("/about")
+def about():
+    return render_template("about.html", visitors=get_visitor_count())
+
 @app.route("/<language>")
 def language_home(language):
     if language not in LANGUAGES:
