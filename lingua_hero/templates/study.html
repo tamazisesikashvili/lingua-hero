@@ -80,19 +80,20 @@
 </div>
 
 <script>
-// Restore saved language preference
-const saved = localStorage.getItem('translationLang') || 'english';
-const select = document.getElementById('lang-select');
-if (select) {
-  select.value = saved;
-  switchLang(saved);
-}
-
 function switchLang(lang) {
   localStorage.setItem('translationLang', lang);
   document.querySelectorAll('.cell-translation').forEach(cell => {
     cell.textContent = cell.dataset[lang] || '';
   });
 }
+
+document.addEventListener('DOMContentLoaded', function() {
+  const saved = localStorage.getItem('translationLang') || 'english';
+  const select = document.getElementById('lang-select');
+  if (select) {
+    select.value = saved;
+    switchLang(saved);
+  }
+});
 </script>
 {% endblock %}
