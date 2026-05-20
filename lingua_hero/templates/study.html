@@ -7,21 +7,57 @@
   <p>{{ level['title'] }} · Study all {{ level['items'] | length }} items before playing</p>
 </div>
 
+<!-- Article colour legend (only for German articles topic) -->
+{% if topic_slug == 'articles' %}
+<div class="article-legend">
+  <div class="legend-item"><span class="art-dot dot-der"></span> der — masculine</div>
+  <div class="legend-item"><span class="art-dot dot-die"></span> die — feminine</div>
+  <div class="legend-item"><span class="art-dot dot-das"></span> das — neuter</div>
+</div>
+{% endif %}
+
 <table class="verb-table">
   <thead>
     <tr>
-      {% for col in level['columns'] %}
+      {% for col in level['columns'][:-1] %}
       <th>{{ col }}</th>
       {% endfor %}
+      {% if level['items'][0].get('english') %}
+      <th class="th-translation">
+        Translation
+        <select class="lang-select" id="lang-select" onchange="switchLang(this.value)">
+          <option value="english">🇬🇧 EN</option>
+          <option value="russian">🇷🇺 RU</option>
+          <option value="french">🇫🇷 FR</option>
+          <option value="spanish">🇪🇸 ES</option>
+        </select>
+      </th>
+      {% else %}
+      <th>{{ level['columns'][-1] }}</th>
+      {% endif %}
     </tr>
   </thead>
   <tbody>
     {% for item in level['items'] %}
     <tr>
       <td class="verb-base">{{ item['prompt'] }}</td>
+      {% if topic_slug == 'articles' %}
+      <td>
+        <span class="art-dot dot-{{ item['answers'][0] }}"></span>
+        <span class="article-text art-{{ item['answers'][0] }}">{{ item['answers'][0] }}</span>
+      </td>
+      {% else %}
       {% for ans in item['answers'] %}
       <td>{{ ans }}</td>
       {% endfor %}
+      {% endif %}
+      {% if item.get('english') %}
+      <td class="cell-translation" data-en="{{ item.get('english','') }}" data-ru="{{ item.get('russian','') }}" data-fr="{{ item.get('french','') }}" data-es="{{ item.get('spanish','') }}">
+        {{ item.get('english','') }}
+      </td>
+      {% else %}
+      <td></td>
+      {% endif %}
     </tr>
     {% endfor %}
   </tbody>
@@ -42,4 +78,21 @@
 <div class="back-link">
   <a href="{{ url_for('topic_home', language=language, topic_slug=topic_slug) }}">← All levels</a>
 </div>
+
+<script>
+// Restore saved language preference
+const saved = localStorage.getItem('translationLang') || 'english';
+const select = document.getElementById('lang-select');
+if (select) {
+  select.value = saved;
+  switchLang(saved);
+}
+
+function switchLang(lang) {
+  localStorage.setItem('translationLang', lang);
+  document.querySelectorAll('.cell-translation').forEach(cell => {
+    cell.textContent = cell.dataset[lang] || '';
+  });
+}
+</script>
 {% endblock %}
