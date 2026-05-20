@@ -1,11 +1,13 @@
 from flask import Flask, render_template, request, session, redirect, url_for
 from datetime import timedelta
+from werkzeug.middleware.proxy_fix import ProxyFix
 import json
 import random
 import os
 import sqlite3
 
 app = Flask(__name__)
+app.wsgi_app = ProxyFix(app.wsgi_app, x_proto=1, x_host=1)
 app.secret_key = "lingua_hero_secret_2025"
 app.config['PERMANENT_SESSION_LIFETIME'] = timedelta(days=1000)
 
